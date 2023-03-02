@@ -1,2 +1,2 @@
-# realkey
-reallllllll
+_G.Key = "T1S0A1EF02LE3DBAF40SX-IFU-H5DTT6PSFGPYA7GAIFN-IWK8IOGFL9LK10IFHLLY11GF11OJU" -- You Put Your Key Here
+_G.KeyInput = "string"
